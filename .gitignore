@@ -1,0 +1,4 @@
+#virtual machine
+*.qcow2
+#os file
+*.iso
