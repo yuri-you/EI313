@@ -2,3 +2,4 @@
 *.qcow2
 #os file
 *.iso
+*.xlsx
