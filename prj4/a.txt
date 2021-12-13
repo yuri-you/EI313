@@ -1,0 +1,6 @@
+sysbench --test=memory --threads=1 --memory-hugetlb=on --memory-block-size=4m --memory-total-size=50G --memory-access-mode=rnd --time=20 run
+
+
+sudo gedit /etc/default/grub
+
+cat /proc/meminfo | grep -i hugepage

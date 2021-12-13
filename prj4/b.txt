@@ -1,0 +1,5 @@
+  <memoryBacking>
+    <hugepages>
+       <page size="1048576" unit="KiB"/>
+    </hugepages>
+  </memoryBacking>
